@@ -9,6 +9,7 @@
 // ======================= END OF INCLUDE BLOCK // =============================
 
 // =======================Pin Definitions - ONLY MODIFY PIN NUMBERS // =========
+#define PULLPUSHSOLENOID_PIN_SIG	2
 
 
 // =======================Pin Definitions // ===================================
